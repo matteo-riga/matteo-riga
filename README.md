@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Matteo 👋
 
-<!--
-**matteo-riga/matteo-riga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 High Performance Computing Engineering Student at Politecnico di Milano.
+- 🧠 A curious and scientific mind with strong math skills particularly in applied mathematics, statistics, and algorithms.
+- 🤖 I have a keen interest in Artificial Intelligence (AI) and its applications, specifically in financial modeling and cybersecurity.
+- 🎨 Fascinated by generative art and AI-driven creativity.
+- 🚀 Always exploring new technologies and frameworks.
 
-Here are some ideas to get you started:
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-riga&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/matteo-rigamonti-0a7379258/))
+
+### Thanks for visiting my profile! 🙏
