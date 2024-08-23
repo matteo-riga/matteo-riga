@@ -4,6 +4,7 @@
 - 🎓 High Performance Computing Engineering Student at Politecnico di Milano.
 - 🧠 A curious and scientific mind with strong math skills particularly in applied mathematics, statistics, and algorithms.
 - 🤖 I have a keen interest in Artificial Intelligence (AI) and its applications, specifically in financial modeling and cybersecurity.
+- 📄 I have authored a research paper on Hedge Fund Replication which explores a new technique for containing risk exposure.
 - 🎨 Fascinated by generative art and AI-driven creativity.
 - 🚀 Always exploring new technologies and frameworks.
 
