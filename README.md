@@ -11,6 +11,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-riga&layout=compact)
 
 ## Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/matteo-rigamonti-0a7379258/))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/matteo-rigamonti-0a7379258/))]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/matteo-rigamonti-0a7379258/))
 
 ### Thanks for visiting my profile! 🙏
