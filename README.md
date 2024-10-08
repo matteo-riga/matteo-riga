@@ -9,8 +9,9 @@
 - 🚀 Always exploring new technologies and frameworks.
 
 ## Featured Projects
-- **[Cybersecurity: Master Thesis](https://github.com/matteo-riga/Thesis)**: Master Thesis in HPCE: Anomaly and Intrusion Detection on log files with Machine Learning and Deep Learning
+- **[Cybersecurity:](https://github.com/matteo-riga/Thesis)**: Master Thesis in HPCE: Anomaly and Intrusion Detection on log files with Machine Learning and Deep Learning
 - **[Paper (Finance): Intelligent Hedge Fund Replication](https://github.com/matteo-riga/HedgeFundReplication)**: Code for the paper Intelligent Hedge Fund Replication.
+- **[Pharmacovigilance with LLM](https://github.com/matteo-riga/PharmacoVigilance)**: Project of Pharmacovigilance data collection and interpretation through LLMs and prompt engineering.
 - **[High Performance Optimization of N-Body Problem](https://github.com/matteo-riga/Nbody_Project_Exam)**: Barnes-Hut Optimization for N-Body Problem.
 - **[Image Generation Website](https://github.com/matteo-riga/ImgGenWebsite)**: A Python web application using Flask to generate images with Hugging Face models.
 
